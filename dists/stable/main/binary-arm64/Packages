@@ -43,3 +43,18 @@ Homepage: https://quantumauth.io
 Description: QuantumAuth client
 License: Apache-2.0
 
+Package: quantum-auth-client
+Version: 0.0.6
+Architecture: arm64
+Maintainer: QuantumAuth <maintainer@quantumauth.io>
+Installed-Size: 24512
+Filename: pool/main/arm64/quantum-auth-client_0.0.6_arm64.deb
+Size: 9679296
+MD5sum: 2d851dec356eabaa1b3b6e58fbb01ac2
+SHA1: 77407f4945d09d916d96273d1c32456195f40309
+SHA256: ec54b8fd741ae0c2f255e1ef8dc60080e812bc097ab3e6f6401344450534ccb0
+Priority: optional
+Homepage: https://quantumauth.io
+Description: QuantumAuth client
+License: Apache-2.0
+
